@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1589671538 source:c:\users\joaquin garcia\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmployees.h"
+
+1589579478 source:c:\users\joaquin garcia\desktop\tp2\unt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1589325288 c:\users\joaquin garcia\desktop\tp2\utn.h
+
+1589669798 c:\users\joaquin garcia\desktop\tp2\datawarehouse.h
+
+1589671547 c:\users\joaquin garcia\desktop\tp2\arrayemployees.h
+
+1589671832 source:c:\users\joaquin garcia\desktop\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmployees.h"
+
