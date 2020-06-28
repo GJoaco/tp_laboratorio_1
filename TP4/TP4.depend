@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1593310994 source:c:\users\joaquin garcia\desktop\programacion-en-c\tp4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Employee.h"
+	"LinkedList.h"
+
+1593308170 c:\users\joaquin garcia\desktop\programacion-en-c\tp4\employee.h
+	"LinkedList.h"
+
+1560475730 c:\users\joaquin garcia\desktop\programacion-en-c\tp4\linkedlist.h
+
+1593308519 source:c:\users\joaquin garcia\desktop\programacion-en-c\tp4\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"LinkedList.h"
+
+1593310463 source:c:\users\joaquin garcia\desktop\programacion-en-c\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593311678 source:c:\users\joaquin garcia\desktop\programacion-en-c\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"Controller.h"
+	"Notebooks.h"
+	"LinkedList.h"
+
+1593311678 c:\users\joaquin garcia\desktop\programacion-en-c\tp4\controller.h
+	"LinkedList.h"
+
+1589920159 source:c:\users\joaquin garcia\desktop\programacion-en-c\tp4\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1589920159 c:\users\joaquin garcia\desktop\programacion-en-c\tp4\utn.h
+
+1593311118 source:c:\users\joaquin garcia\desktop\programacion-en-c\tp4\notebooks.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Notebooks.h"
+	"LinkedList.h"
+
+1593308170 c:\users\joaquin garcia\desktop\programacion-en-c\tp4\notebooks.h
+	"LinkedList.h"
+
