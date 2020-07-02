@@ -219,3 +219,38 @@
 
 1589920159 c:\users\joaquin garcia\desktop\programacion-en-c\tp3_cascara\win_64\utn.h
 
+1593311849 source:c:\users\joaquin garcia\desktop\programacion-en-c\tps\tp3\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1593311849 c:\users\joaquin garcia\desktop\programacion-en-c\tps\tp3\employee.h
+	"LinkedList.h"
+
+1593311849 c:\users\joaquin garcia\desktop\programacion-en-c\tps\tp3\linkedlist.h
+
+1593311849 source:c:\users\joaquin garcia\desktop\programacion-en-c\tps\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1593311849 c:\users\joaquin garcia\desktop\programacion-en-c\tps\tp3\controller.h
+
+1593311849 source:c:\users\joaquin garcia\desktop\programacion-en-c\tps\tp3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1593311849 source:c:\users\joaquin garcia\desktop\programacion-en-c\tps\tp3\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1593311849 c:\users\joaquin garcia\desktop\programacion-en-c\tps\tp3\utn.h
+

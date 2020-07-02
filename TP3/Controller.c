@@ -54,6 +54,8 @@ int controller_loadFromBinary(char* path , LinkedList* pArrayListEmployee)
 		{
 			retorno = 1;
 		}
+	}
+
 
 	fclose(pFile);
 

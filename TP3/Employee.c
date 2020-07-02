@@ -142,7 +142,13 @@ int employee_setSueldo(Employee* this,int sueldo)
 
     return retorno;
 }
-
+/** \brief Carga el id del empleado en el puntero que pasemos por parametros
+ *
+ * \param puntero a empleado
+ * \param puntero a la variable en la que la funcion cargara el id
+ * \return 01 en caso de error, 1 en caso de exito
+ *
+ */
 int employee_getId(Employee* this,int* id)
 {
     int retorno=0;
@@ -155,7 +161,12 @@ int employee_getId(Employee* this,int* id)
 
     return retorno;
 }
-
+/** \brief Carga el nombre del empleado en el puntero que pasemos por parametros
+ *
+ * \param puntero a empleado
+ * \param cadena de caracteres en la que la funcion cargara el nombre
+ * \return 0 en caso de error, o 1 en caso de exito
+ */
 int employee_getNombre(Employee* this,char* nombre)
 {
     int retorno=0;
@@ -169,6 +180,13 @@ int employee_getNombre(Employee* this,char* nombre)
     return retorno;
 }
 
+/** \brief Carga las horas trabajadas del empleado en el puntero que pasemos por parametros
+ *
+ * \param puntero a empleado
+ * \param puntero a la variable en la que la funcion cargara las horas trabajadas
+ * \return 0 en caso de error, o 1 en caso de exito
+ */
+
 int employee_getHorasTrabajadas(Employee* this,int* horasTrabajadas)
 {
     int retorno=0;
@@ -181,7 +199,12 @@ int employee_getHorasTrabajadas(Employee* this,int* horasTrabajadas)
 
     return retorno;
 }
-
+/** \brief Valida y carga el sueldo en el campo del empleado
+ *
+ * \param puntero a empleado
+ * \param sueldo a validar y cargar
+ * \return 0 en caso de error, o 1 en caso de exito
+ */
 int employee_getSueldo(Employee* this,int* sueldo)
 {
     int retorno=0;
